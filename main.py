@@ -1,4 +1,4 @@
-# wtf boy working hard
+# importing os and shutil module
 import os, shutil
 path = r'C:/Users/computer world/Desktop/New folder/'
 filename = os.listdir(path)
