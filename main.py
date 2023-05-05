@@ -1,3 +1,4 @@
+# wtf boy working hard
 import os, shutil
 path = r'C:/Users/computer world/Desktop/New folder/'
 filename = os.listdir(path)
